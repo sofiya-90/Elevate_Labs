@@ -7,12 +7,7 @@
 
 4.Result-
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-06-24 03:53 EDT
-Nmap scan report for 192.168.208.2
-135/tcp  open  msrpc
-139/tcp  open  netbios-ssn
-445/tcp  open  microsoft-ds
-5357/tcp open  wsdapi
-6646/tcp open  unknown
-Above mentioned ports were found open .
+Nmap scan report for target IP
+Few ports were found open .
+![Image](https://github.com/user-attachments/assets/9c283de9-4e95-4c8a-be0f-7d22ba83e6a1)
 
-![Image](https://github.com/user-attachments/assets/12742faa-d33e-457b-9968-09e9d1a5f990)
